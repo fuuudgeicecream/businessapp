@@ -1,0 +1,55 @@
+{
+    "categories":[
+        {"name":"IT"},{"name":"Retail"},{"name":"Entertainment"},{"name":"Restuarant"}
+        ],
+        "businesses":
+    [{
+        "category":"Retail",
+        "city": "Milwaukee",
+        "company": "JumpXS",
+        "description":"Nulla ut erat id mauris vulputate elementum. Nu...",
+        "email":"Kool@gmail.com",
+        "phone": "1-(414)274-3262",
+        "state":"Wisconsin",
+        "street_address":"856 Sheridan Terrace",
+        "years_in_business":"7",
+        "zipcode":"53234"
+    },
+    {
+        "category":"IT",
+        "city": "Durban",
+        "company": "Wire-IT",
+        "description":"Nulla ut erat id mauris vulputate elementum. Nu...",
+        "email":"yollo@gmail.com",
+        "phone": "1-(414)274-3262",
+        "state":"KwaZulu-Natal",
+        "street_address":"856 Sheridan Terrace",
+        "years_in_business":"3",
+        "zipcode":"4001"
+    },
+    {
+        "category":"Food Industry",
+        "city": "Johannesburg",
+        "company": "Spur",
+        "description":"Nulla ut erat id mauris vulputate elementum. Nu...",
+        "email":"spur@gmail.com",
+        "phone": "1-(414)274-3262",
+        "state":"Gauteng",
+        "street_address":"856 Sheridan Terrace",
+        "years_in_business":"7",
+        "zipcode":"1021"
+    },
+    {
+        "category":"Entertainment",
+        "city": "CapeTown",
+        "company": "RedBull",
+        "description":"Nulla ut erat id mauris vulputate elementum. Nu...",
+        "email":"RedBull@gmail.com",
+        "phone": "1-(414)274-3262",
+        "state":"Western Cape",
+        "street_address":"856 Sheridan Terrace",
+        "years_in_business":"7",
+        "zipcode":"3012"
+    }
+    ]
+}
