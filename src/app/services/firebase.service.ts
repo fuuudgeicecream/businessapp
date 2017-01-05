@@ -34,4 +34,7 @@ export class FirebaseService{
         FirebaseListObservable<Category[]>
         return this.categories;
     }
+    addBusiness(newBusiness){
+        return this.businesses.push(newBusiness);
+    }
 }
