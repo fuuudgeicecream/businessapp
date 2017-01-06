@@ -253,7 +253,7 @@
             <td>
               <button (click)="changeState('extend',business.$key)" class="button">More</button>
               <button (click)="showEdit(business)" class="button secondary">Edit</button>
-              <button class="button alert">Delete</button>
+              <button (click)="deleteBusiness(business.$key)" class="button alert">Delete</button>
             </td>
           </tr>
         </tbody>
