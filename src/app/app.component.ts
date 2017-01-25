@@ -107,8 +107,4 @@ export class AppComponent implements OnInit{
       this._firebaseService.updateBusiness(this.activeKey, updBusiness);
       this.changeState('default');
     }
-
-    deleteBusiness(key){
-       this._firebaseService.deleteBusiness(this.Key);
-    }
   }
